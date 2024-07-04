@@ -1,0 +1,6 @@
+Flask
+firebase_admin 
+face_recognition
+pathlib
+opencv-python
+dlib
